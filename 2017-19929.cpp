@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void main() {
+void main() {//a
 	vector<int> list;
 	auto num = 1;
 	auto nam = 0;
